@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js: 🎓 known
+  - Stateful and stateless servers: 🎓 known
   - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
+  - Event loop: phases: 🎓 known
+  - Event loop: microtasks and macrotasks: 🎓 known
   - Garbage collection
-  - Node.js LTS schedule
+  - Node.js LTS schedule: 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules: 🎓 known
+  - ECMAScript modules: 🎓 known
+  - node:module 🎓 known
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🎓 known
+  - Dependencies: package.json and package lock: 🎓 known
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments: 🎓 known
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -88,15 +88,15 @@
   - Endpoint throttling
   - HTTP(S): 🎓 known
   - TCP/SSL: 🎓 known
-  - UDP: 👂 heard
-  - TLS: 👂 heard
+  - UDP: 🎓 known
+  - TLS: 🎓 known
   - Websocket:  🎓 known
-  - SSE
-  - HTTP/3 (QUIC)
-  - Long polling
-  - REST
-  - RPC
-  - Routing
+  - SSE: 🎓 known
+  - HTTP/3 (QUIC): 🎓 known
+  - Long polling: 🎓 known
+  - REST: 🎓 known
+  - RPC: 🎓 known
+  - Routing: 🎓 known
   - DoS:🎓 known
   - DDoS: 🎓 known
   - XSS
@@ -105,13 +105,13 @@
   - DNS:🎓 known
   - Fetch API: 🖐️ used
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 🎓 known
   - noDelay
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
-  - Protocol agnostic approach
+  - SSL certificates: 🎓 known
+  - Protocol agnostic approach: 🎓 known
 - Technique and tools
   - Native test runner 
   - Logging
@@ -124,7 +124,7 @@
   - back pressure
   - Buffer: 🎓 known
   - Console: 🎓 known
-  - Inspector
+  - Inspector: 🎓 known
   - Reliability: 🎓 known
   - Quality: 🎓 known
   - Availability: 🎓 know
@@ -136,7 +136,6 @@
   - Query builder: 👂 heard
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error Error handling and debugging
   - Error:🎓 known
   - error.cause: 🎓 known
   - error.code: 🎓 known
@@ -146,7 +145,7 @@
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🎓 known
   - Flame graph
   - Memory leaks
   - Resource leaks

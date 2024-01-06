@@ -8,37 +8,37 @@
   - call: 🖐️ used
   - bind: 👂 heard
   - apply: 👂 heard
-  - instanceof
+  - instanceof: 👂 heard
   - ...spread: 🖐️ used
   - ...rest: 👂 heard
   - typeof: 🖐️ used
   - destructuring: 🖐️ used
-  - generator 
-  - iterator
+  - generator: 👂 heard
+  - iterator: 👂 heard
   - async generator
   - async iterator
-  - chaining: 👂 heard
-  - optional chaining 
+  - chaining: 🖐️ used
+  - optional chaining: 👂 heard
   - IIFE : 🖐️ used
   - global: 🎓 known
-  - globalThis: 👂 heard
+  - globalThis: 🎓 known
   - window: 🎓 known
   - getters and setters: 🖐️ used
-  - __proto__
-  - prototype
+  - __proto__: 🎓 known
+  - prototype: 🖐️ used
   - equality operators: 🎓 known
   - logical operators: 🎓 known
   - bitwise operators:🎓 known 
   - ternary operator: 👂 heard
   - void: 🖐️ used
   - yield
-  - await
-  - template literal
+  - await: 👂 heard
+  - template literal: 👂 heard
   - strict mode: 🎓 known
-  - delete: 👂 heard
+  - delete: 🖐️ used
   - in: 🖐️ used
-  - super 
-  - Symbol: 👂 heard
+  - super: 👂 heard
+  - Symbol: 🖐️ used
   - Reflect
 - Statements
   - if: 🎓 known
@@ -51,31 +51,31 @@
   - throw: 🎓 known
   - break: 🖐️ used
   - continue: 🖐️ used
-  - import: 👂 heard
-  - export: 👂 heard
-  - label: 👂 heard
+  - import: 🖐️ used
+  - export: 🖐️ used
+  - label: 🖐️ used
   - try..catch: 🖐️ used
-  - switch: 👂 heard
-  - class: 👂 heard
+  - switch: 🖐️ used
+  - class: 🖐️ used
   - new Error: 👂 heard
-  - with
+  - with: 👂 heard
 - Functions
   - function declaration: 🎓 known
-  - function expression: 👂 heard
+  - function expression: 🖐️ used
   - return: 🎓 known
-  - default parameters
-  - functional object
+  - default parameters: 🖐️ used
+  - functional object: 🖐️ used
 - Data structures
   - Array: 🖐️ used
-  - mixin
-  - extend
+  - mixin: 👂 heard,
+  - extend: 🖐️ used
   - typed arrays: 👂 heard
-  - Map: 👂 heard
-  - Set: 👂 heard
+  - Map: 🖐️ used
+  - Set: 🖐️ used
   - undefined: 🎓 known
   - null 🎓 known
-  - Proxy
-  - weak collections
+  - Proxy: 👂 heard
+  - weak collections: 👂 heard
   - timers: 🖐️ used
   - EventEmitter: 🖐️ used
   - RegExp

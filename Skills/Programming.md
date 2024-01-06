@@ -12,8 +12,8 @@
   - function 🎓 known
   - procedure 🎓 known
   - method 🎓 known
-  - class 👂 heard
-  - prototype👂 heard
+  - class 🎓 known
+  - prototype 🎓 known
   - event 🎓 known
   - type 🎓 known
   - primitive types 🎓 known
@@ -25,10 +25,10 @@
   - loops 🎓 known
   - assignment 🎓 known
   - regular expression 🎓 known
-  - interface 👂 heard
-  - contract 👂 heard
+  - interface 🎓 known
+  - contract 🎓 known
   - module 🎓 known
-  - call stack 👂 heard
+  - call stack call stack
 - Functions
   - signature 🎓 known
   - argument 🎓 known
@@ -45,34 +45,34 @@
   - listener 🎓 known
   - compose 🎓 known
   - pipe 👂 heard
-  - memoize 👂 heard
+  - memoize 🎓 known
   - wrapper 👂 heard
   - functor 👂 heard
   - monad
   - monoid
-  - generator
-  - coroutine
+  - generator 👂 heard
+  - coroutine 👂 heard
 - Data structures
   - array 🎓 known
   - structure 🎓 known
-  - record
-  - enum
+  - record 🎓 known
+  - enum 👂 heard
   - instance 👂 heard,
   - object 🎓 known
-  - class 👂 heard,
-  - collection 
-  - set
+  - class 🎓 known
+  - collection 🎓 known
+  - set 🎓 known
   - hash table 🎓 known
   - linked list 🎓 known
-  - doubly list 👂 heard,
-  - unrolled list 👂 heard,
-  - circular list 👂 heard,
+  - doubly list 🎓 known
+  - unrolled list 🎓 known
+  - circular list 🎓 known
   - queue 🎓 known,
-  - stack 👂 heard,
+  - stack 🎓 known,
   - deque 👂 heard
   - tree 🎓 known
   - graph 🎓 known
-  - iterator
+  - iterator 🎓 known
   - mutable state
   - immutable state
   - serialization
@@ -86,21 +86,21 @@
   - garbage collection
   - refactoring: 🎓 known
   - code review: 🎓 known
-  - antipatterns: 👂 heard
-  - paradigm: 👂 heard
+  - antipatterns: 🎓 known
+  - paradigm: 🎓 known
   - algorithm: 🎓 known
-  - magic numbers: 👂 heard
+  - magic numbers: 🎓 known
   - hardcode: 👂 heard
   - complexity: 👂 heard
-  - decomposition: 👂 heard
-  - spaghetti: 👂 heard
-  - silver bullet: 👂 heard
-  - not invented here
-  - dead code: 👂 heard
-  - unreachable code: 👂 heard
+  - decomposition: 🎓 known
+  - spaghetti: 🎓 known
+  - silver bullet: 🎓 known
+  - not invented here: 🎓 known
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
   - duplicate code: 🎓 known
-  - exception
-  - return early: 👂 heard
-  - unittest
+  - exception: 🎓 known
+  - return early: 🎓 known
+  - unittest: 🎓 known
   - git:🖐️ used
   - github: 🖐️ used

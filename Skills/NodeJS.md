@@ -86,24 +86,24 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 👂 heard
+  - TLS: 👂 heard
+  - Websocket:  🎓 known
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS:🎓 known
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
+  - DNS:🎓 known
+  - Fetch API: 🖐️ used
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -113,34 +113,35 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
+  - Native test runner 
   - Logging
-  - Application configuring
-  - Testing
+  - Application configuring: 🎓 known
+  - Testing: 🎓 known
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 🎓 known
+  - Console: 🎓 known
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 know
+  - Flexibility: 🎓 known
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
+  - Data access layer: 👂 heard 
+  - Repository: 🎓 known
+  - Active record: 👂 heard
+  - Query builder: 👂 heard
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error Error handling and debugging
+  - Error:🎓 known
+  - error.cause: 🎓 known
+  - error.code: 🎓 known
+  - error.message: 🎓 known
+  - error.stack: 👂 heard
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions

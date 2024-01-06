@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value 🎓 known
+  - identifier 🎓 known
+  - variable 🎓 known
+  - constant 🎓 known
+  - scalar 🎓 known
+  - literal 🎓 known
+  - expression 🎓 known
+  - heap 🎓 known
+  - function 🎓 known
+  - procedure 🎓 known
+  - method 🎓 known
+  - class 👂 heard
+  - prototype👂 heard
+  - event 🎓 known
+  - type 🎓 known
+  - primitive types 🎓 known
+  - reference types 🎓 known
+  - flag 🎓 known
+  - lexical scope 🎓 known
+  - code block 🎓 known
+  - conditions 🎓 known
+  - loops 🎓 known
+  - assignment 🎓 known
+  - regular expression 🎓 known
+  - interface 👂 heard
+  - contract 👂 heard
+  - module 🎓 known
+  - call stack 👂 heard
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
+  - signature 🎓 known
+  - argument 🎓 known
+  - parameter 🎓 known
+  - pure function 🎓 known
+  - lambda expression 🎓 known
+  - side effects 
+  - closure 🎓 known
+  - partial application 👂 heard
+  - curry 👂 heard
+  - higher order 🎓 known
+  - recursion 🎓 known
+  - callback 🎓 known
+  - listener 🎓 known
+  - compose 🎓 known
+  - pipe 👂 heard
+  - memoize 👂 heard
+  - wrapper 👂 heard
+  - functor 👂 heard
   - monad
   - monoid
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array 🎓 known
+  - structure 🎓 known
   - record
   - enum
-  - instance
-  - object
-  - class
-  - collection
+  - instance 👂 heard,
+  - object 🎓 known
+  - class 👂 heard,
+  - collection 
   - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
+  - hash table 🎓 known
+  - linked list 🎓 known
+  - doubly list 👂 heard,
+  - unrolled list 👂 heard,
+  - circular list 👂 heard,
+  - queue 🎓 known,
+  - stack 👂 heard,
+  - deque 👂 heard
+  - tree 🎓 known
+  - graph 🎓 known
   - iterator
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 🎓 known
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger: 🎓 known
   - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
+  - refactoring: 🎓 known
+  - code review: 🎓 known
+  - antipatterns: 👂 heard
+  - paradigm: 👂 heard
+  - algorithm: 🎓 known
+  - magic numbers: 👂 heard
+  - hardcode: 👂 heard
+  - complexity: 👂 heard
+  - decomposition: 👂 heard
+  - spaghetti: 👂 heard
+  - silver bullet: 👂 heard
   - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
+  - dead code: 👂 heard
+  - unreachable code: 👂 heard
+  - duplicate code: 🎓 known
   - exception
-  - return early
+  - return early: 👂 heard
   - unittest
-  - git
-  - github
+  - git:🖐️ used
+  - github: 🖐️ used
